@@ -12,3 +12,6 @@ executar : java q1.java
 
 compilar : javac q2.java
 executar : java q2.java
+
+<h1> Python </h1>
+executar : py q3.py
